@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-import",
-  "version": "2.27.5",
+  "version": "2.27.6",
   "description": "Import with sanity.",
   "engines": {
     "node": ">=4"
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/import-js/eslint-plugin-import"
+    "url": "https://github.com/timothy-b/eslint-plugin-import"
   },
   "keywords": [
     "eslint",
@@ -53,7 +53,7 @@
   "bugs": {
     "url": "https://github.com/import-js/eslint-plugin-import/issues"
   },
-  "homepage": "https://github.com/import-js/eslint-plugin-import",
+  "homepage": "https://github.com/timothy-b/eslint-plugin-import",
   "devDependencies": {
     "@angular-eslint/template-parser": "^13.5.0",
     "@eslint/import-test-order-redirect-scoped": "file:./tests/files/order-redirect-scoped",
